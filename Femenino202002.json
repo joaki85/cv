@@ -1,0 +1,86 @@
+{
+  "total": 10,
+  "totalNotFiltered": 10,
+  "rows": [
+    {
+      "licencia": 4304250,
+      "apellidos": "PARRIZAS DIAZ",
+      "nombre": "NURIA",
+      "puntos": 70656,
+      "ranking_nacional": 9,
+      "region_flag": "https://www.statennis.es/banderas/autonomias/2.png"
+    },
+    {
+      "licencia": 4358546,
+      "apellidos": "ARRUABARRENA VECINO",
+      "nombre": "LARA",
+      "puntos": 97251,
+      "ranking_nacional": 6,
+      "region_flag": "https://www.statennis.es/banderas/autonomias/9.png"
+    },
+    {
+      "licencia": 6637831,
+      "apellidos": "MUGURUZA BLANCO",
+      "nombre": "GARBIÑE",
+      "puntos": 630501,
+      "ranking_nacional": 1,
+      "region_flag": "https://www.statennis.es/banderas/autonomias/9.png"
+    },
+    {
+      "licencia": 6791190,
+      "apellidos": "BADOSA GIBERT",
+      "nombre": "PAULA",
+      "puntos": 174501,
+      "ranking_nacional": 4,
+      "region_flag": "https://www.statennis.es/banderas/autonomias/9.png"
+    },
+    {
+      "licencia": 6808482,
+      "apellidos": "BOLSOVA ZADOINOV",
+      "nombre": "ALIONA",
+      "puntos": 161001,
+      "ranking_nacional": 5,
+      "region_flag": "https://www.statennis.es/banderas/autonomias/9.png"
+    },
+    {
+      "licencia": 7761332,
+      "apellidos": "SUAREZ NAVARRO",
+      "nombre": "CARLA",
+      "puntos": 205501,
+      "ranking_nacional": 2,
+      "region_flag": "https://www.statennis.es/banderas/autonomias/9.png"
+    },
+    {
+      "licencia": 8497994,
+      "apellidos": "SORRIBES TORMO",
+      "nombre": "SARA",
+      "puntos": 191976,
+      "ranking_nacional": 3,
+      "region_flag": "https://www.statennis.es/banderas/autonomias/10.png"
+    },
+    {
+      "licencia": 9018442,
+      "apellidos": "BUCSA BUCSA",
+      "nombre": "CRISTINA",
+      "puntos": 87796,
+      "ranking_nacional": 7,
+      "region_flag": "https://www.statennis.es/banderas/autonomias/13.png"
+    },
+    {
+      "licencia": 9424144,
+      "apellidos": "GUERRERO ALVAREZ",
+      "nombre": "EVA",
+      "puntos": 65031,
+      "ranking_nacional": 10,
+      "region_flag": "https://www.statennis.es/banderas/autonomias/1.png"
+    },
+    {
+      "licencia": 10421923,
+      "apellidos": "DANILOVIC",
+      "nombre": "OLGA",
+      "puntos": 84501,
+      "ranking_nacional": 8,
+      "region_flag": "https://www.statennis.es/banderas/autonomias/9.png"
+    }
+  ]
+}
