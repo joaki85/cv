@@ -3,7 +3,7 @@
   "totalNotFiltered": 10,
   "rows": [
     {
-      "licencia": 4304250,
+      "id": 4304250,
       "apellidos": "PARRIZAS DIAZ",
       "nombre": "NURIA",
       "puntos": 70656,
@@ -11,7 +11,7 @@
       "region_flag": "https://www.statennis.es/banderas/autonomias/2.png"
     },
     {
-      "licencia": 4358546,
+      "id": 4358546,
       "apellidos": "ARRUABARRENA VECINO",
       "nombre": "LARA",
       "puntos": 97251,
@@ -19,7 +19,7 @@
       "region_flag": "https://www.statennis.es/banderas/autonomias/9.png"
     },
     {
-      "licencia": 6637831,
+      "id": 6637831,
       "apellidos": "MUGURUZA BLANCO",
       "nombre": "GARBIÑE",
       "puntos": 630501,
@@ -27,7 +27,7 @@
       "region_flag": "https://www.statennis.es/banderas/autonomias/9.png"
     },
     {
-      "licencia": 6791190,
+      "id": 6791190,
       "apellidos": "BADOSA GIBERT",
       "nombre": "PAULA",
       "puntos": 174501,
@@ -35,7 +35,7 @@
       "region_flag": "https://www.statennis.es/banderas/autonomias/9.png"
     },
     {
-      "licencia": 6808482,
+      "id": 6808482,
       "apellidos": "BOLSOVA ZADOINOV",
       "nombre": "ALIONA",
       "puntos": 161001,
@@ -43,7 +43,7 @@
       "region_flag": "https://www.statennis.es/banderas/autonomias/9.png"
     },
     {
-      "licencia": 7761332,
+      "id": 7761332,
       "apellidos": "SUAREZ NAVARRO",
       "nombre": "CARLA",
       "puntos": 205501,
@@ -51,7 +51,7 @@
       "region_flag": "https://www.statennis.es/banderas/autonomias/9.png"
     },
     {
-      "licencia": 8497994,
+      "id": 8497994,
       "apellidos": "SORRIBES TORMO",
       "nombre": "SARA",
       "puntos": 191976,
@@ -59,7 +59,7 @@
       "region_flag": "https://www.statennis.es/banderas/autonomias/10.png"
     },
     {
-      "licencia": 9018442,
+      "id": 9018442,
       "apellidos": "BUCSA BUCSA",
       "nombre": "CRISTINA",
       "puntos": 87796,
@@ -67,7 +67,7 @@
       "region_flag": "https://www.statennis.es/banderas/autonomias/13.png"
     },
     {
-      "licencia": 9424144,
+      "id": 9424144,
       "apellidos": "GUERRERO ALVAREZ",
       "nombre": "EVA",
       "puntos": 65031,
@@ -75,7 +75,7 @@
       "region_flag": "https://www.statennis.es/banderas/autonomias/1.png"
     },
     {
-      "licencia": 10421923,
+      "id": 10421923,
       "apellidos": "DANILOVIC",
       "nombre": "OLGA",
       "puntos": 84501,
